@@ -1,5 +1,5 @@
 ### Champion Logistics Arena Competition 2024
-## Three Leaves - Sportswear Semi-auto warehouse case
+## Three Leaves - Sportswear Semi-auto Distribution Center case
 ### 1. Situation
 Three Leaves, a leading global sportswear brand, is looking to expand its market in Vietnam and plans to establish a new distribution center that will serve online individual customers directly.
 ### 2. Complication
